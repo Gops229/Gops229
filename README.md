@@ -1,5 +1,5 @@
 ### Hi there 👋
-My furniture website!
+My small try on creating a furniture website!😌
 
 
 https://gops229.github.io/FurnitureProductPage/
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
